@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>counting.ab25bea6-bec7-11ec-9296-b42e99c8cac2.jpg</filename>
+	<path>D:\499B final project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\counting.ab25bea6-bec7-11ec-9296-b42e99c8cac2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>counting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>77</ymin>
+			<xmax>447</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

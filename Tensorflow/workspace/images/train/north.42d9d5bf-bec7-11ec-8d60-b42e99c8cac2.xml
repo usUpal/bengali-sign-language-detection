@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>north.42d9d5bf-bec7-11ec-8d60-b42e99c8cac2.jpg</filename>
+	<path>D:\499B final project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\north.42d9d5bf-bec7-11ec-8d60-b42e99c8cac2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>north</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>254</ymin>
+			<xmax>413</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

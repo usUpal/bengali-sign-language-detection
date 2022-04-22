@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>six.2ec6a81d-bec6-11ec-9e46-b42e99c8cac2.jpg</filename>
+	<path>D:\499B final project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\six.2ec6a81d-bec6-11ec-9e46-b42e99c8cac2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>120</ymin>
+			<xmax>421</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
